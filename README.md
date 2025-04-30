@@ -41,7 +41,9 @@ expo start
 ```
 
 4. **Configuração Backend (API)**
+   
 Certifique-se de que a API do backend esteja rodando localmente ou em um servidor. A API é responsável pela comunicação com o banco de dados e pela gestão dos robôs logísticos. Para detalhes de como rodar a API, consulte o README do repositório backend.
 
 5. **Acesse o app**
+   
 Após o projeto ser inicializado, você pode acessar a aplicação em seu dispositivo ou em um emulador.
