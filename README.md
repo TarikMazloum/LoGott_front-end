@@ -5,11 +5,11 @@ Projeto desenvolvido para o gerenciamento e monitoramento de robôs logísticos 
 ---
 
 ## 👨‍💻 Squad
-- Erick Santos Santana
-- Gabriel Borges Gonçalves Silva
-- Olivier Antoine Virthe Farias
-- Rodrigo Vinzent Arinez Viscarra
-- Tarik Omar Mazloum
+- Erick Santos Santana -> RM: 559206
+- Gabriel Borges Gonçalves Silva -> RM: 558861
+- Olivier Antoine Virthe Farias -> RM: 98585
+- Rodrigo Vinzent Arinez Viscarra -> RM: 559192
+- Tarik Omar Mazloum -> RM: 554933
 
 ---
 
